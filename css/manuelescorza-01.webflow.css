@@ -3088,6 +3088,11 @@ a {
   grid-template-columns: 1fr 1fr;
 }
 
+#w-node-_6c63ccea-1cb2-35cf-76eb-9a281fecd1a9-d855af6f {
+  grid-template-rows: auto auto auto;
+  grid-template-columns: 1fr;
+}
+
 @media screen and (max-width: 991px) {
   #w-node-_9b9eeefa-8de3-21d3-7eb4-de6d247a4699-097bc03b {
     order: -9999;
